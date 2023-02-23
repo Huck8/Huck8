@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Huck8
+- 👋 Hi, I’m @Angel
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on HTML, CSS, JS
