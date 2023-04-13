@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Angel
+- 👋 Hi, I’m @Angel Contioso
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate  JS, REACT
-- 📫 How to reach me angelcontiosomonclova@gmail.com
+- 📫 How to reach me angelmonclova@gmail.com
 
 <!---
 Huck8/Huck8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
