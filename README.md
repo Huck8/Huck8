@@ -5,7 +5,7 @@
 - 📫 How to reach me angelmonclova@gmail.com
 
 
-[SrGobi GitHub stats](https://github-readme-stats.vercel.app/api?username=Huck8&show_icons=true&theme=merko)
+
 
 
 
