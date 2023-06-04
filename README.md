@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate  JS, REACT
 - 📫 How to reach me angelmonclova@gmail.com
 
-![SrGobi GitHub stats](https://github-readme-stats.vercel.app/api?username=SrGobi&show_icons=true&theme=tokyonight)
+
 
 
 
