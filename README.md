@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Angel Contioso
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning JS
-- 💞️ I’m looking to work  JS, REACT, Typescript
+- 💞️ I’m looking to work  JS, REACT, TYPESCRIPT
 - 📫 How to reach me angelmonclova@gmail.com
 
 
