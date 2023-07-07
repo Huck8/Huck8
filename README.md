@@ -1,8 +1,5 @@
 
-
-
-
-
+<h2>Frontend Developer</h2>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
 - 👋 Hi, I’m @Angel Contioso
