@@ -1,6 +1,7 @@
-
 <h2>Frontend Developer</h2>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=40&pause=500&color=24F745&width=435&lines=Frontend+Developer;Game+coder;Stoical;Creative+logic;Clean+Code;Glib+jocks+quiz+nymph+to+vex+dwarf" alt="Typing SVG" /></a>
+
+
 - 👋 Hi, I’m @Angel Contioso
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning JS
