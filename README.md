@@ -1,6 +1,14 @@
 
 
-![Hola,-soy-Ángel-header](https://github.com/Huck8/Huck8/assets/97058349/c06babcd-c4f8-4f58-bbb9-b9165f223a5a)
+
+
+
+
+https://github.com/Huck8/Huck8/assets/97058349/00778b78-fcec-4590-b416-8d70f3c91ca9
+
+
+https://github.com/Huck8/Huck8/assets/97058349/6c0e6866-c8c8-4491-a544-f266ef84aa97
+
 
 <h2>Frontend Developer</h2>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=40&pause=500&color=24F745&width=435&lines=Frontend+Developer;Game+coder;Stoical;Creative+logic;Clean+Code" alt="Typing SVG" /></a>
