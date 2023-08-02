@@ -4,10 +4,8 @@
 
 
 
-https://github.com/Huck8/Huck8/assets/97058349/00778b78-fcec-4590-b416-8d70f3c91ca9
 
-
-https://github.com/Huck8/Huck8/assets/97058349/6c0e6866-c8c8-4491-a544-f266ef84aa97
+![Hola,-soy-Ángel-header](https://github.com/Huck8/Huck8/assets/97058349/f7f2922c-531c-4708-a2c5-7bfc3cad176a)
 
 
 <h2>Frontend Developer</h2>
